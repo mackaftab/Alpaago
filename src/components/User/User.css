@@ -1,0 +1,48 @@
+
+ h1{
+   text-align: center;
+ }
+ 
+ .container{
+   margin-top: 10px;
+   display: flex;
+ }
+ 
+ .container input{
+   width: 50vw;
+   padding: 10px;
+ }
+ 
+ .container button{
+   margin-left: 5px;
+ }
+ 
+ ul{
+   list-style-type: none;
+ }
+ 
+ li{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 5px 0;
+   padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+ }
+ 
+ 
+ .complete{
+   text-decoration: line-through;
+   color: grey;
+ }
+
+.dlt{
+    text-decoration: none;
+}
+
+ .date{
+    width: 10vw;
+    background-color: lightskyblue;
+    text-align: center;
+ }
